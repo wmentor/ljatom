@@ -1,6 +1,7 @@
 # Summary
 
-ljatom reads new public posts from LiveJournal via public atom stream interface.
+LiveJournal has never ending public post feed up at http://atom.services.livejournal.com/atom-stream.xml . ljatom client allows
+you to read all this posts from LiveJournal. ljatom is written on pure go and require version >= 1.10.
 
 # Install
 
